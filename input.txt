@@ -1,0 +1,22 @@
+Example 1
+// First Fit
+P1:2,data:20,stack:30;P2:3,Data:10,stack:30,memory:55
+start address
+10 50 100 200
+size of holes
+20 45 60 100
+
+
+Example 2
+ex for: Worst-Fit  
+start 5 40 55 85, 
+hole 20 10 25 15, 
+P1:2,data1:5,code1:20;P2:3,data2:10,code2:5;p3:2,data3:40,code3:5,memory3:50;P4:2,data4:10,code4:10
+
+Example 3:
+ex:for Best Fit
+start 5 40 60 85,
+size 25 10 20 15 ,
+P1:2,data1:5,code1:20;P2:3,data2:10,code2:5;p3:2,data3:40,code3:5,memory3:50;P4:2,data4:10,code4:10
+
+
