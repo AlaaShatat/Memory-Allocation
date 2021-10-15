@@ -1,0 +1,125 @@
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.csprojResolveAssemblyReference.cache
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.Cache
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\9oem\Downloads\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe.config
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\bin\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csprojResolveAssemblyReference.cache
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Form1.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\allocationGUI\GUITRY\GUI-n\GUI-n\GUITRY - Copy\GUITRY\GUITRY\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\obj\Debug\GUITRY.pdb
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\copyForAlaa\copyForAlaa\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.pdb
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\user\Desktop\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe.config
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\bin\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csprojResolveAssemblyReference.cache
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Form1.resources
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+T:\asu\3rd CSE\Second-term\OS\edited\edited\working\copyForAlaa\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.Cache
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.exe.config
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.exe
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.pdb
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.csprojAssemblyReference.cache
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.Form1.resources
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.cache
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.csproj.CoreCompileInputs.cache
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.exe
+C:\Users\9oem\Downloads\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.exe.config
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\bin\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.csprojResolveAssemblyReference.cache
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.Form1.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\MemoryAllocation\pre-final\finalInsha'allah\finalInsha'allah\finalInsha'allah\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.Cache
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\bin\Debug\GUITRY.exe.config
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\bin\Debug\GUITRY.exe
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\bin\Debug\GUITRY.pdb
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.csprojResolveAssemblyReference.cache
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.Form1.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.Properties.Resources.resources
+T:\asu\3rd CSE\Second-term\OS\assignment\memoryAllocationFinal\MemoryAllocationFinal\GUITRY\obj\Debug\GUITRY.csproj.GenerateResource.Cache
