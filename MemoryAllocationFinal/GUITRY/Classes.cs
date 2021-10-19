@@ -52,13 +52,67 @@ namespace GUITRY
             
             return true;
         }
-       
+
 
 
         ///// function of first fit 
 
+        public void first_fit() //n >> no. of segments , p>> process order
+        {
 
-        
+            for (int p = 0; p < processes.Count; p++) // move through process by process
+            {
+                int n = processes[p].segments.Count; //no. of segments in the procees i work on now
+                int h = holes.Count; // no. of holes in memory
+
+                for (int u = 0; u < n; u++)
+                    processes[p].segments[u].start_address = -1;
+
+                for (int i = 0; i < n; i++) // n no. of segments 
+                {
+
+
+                    for (int j = 0; j < h; j++) //find the sutable hole for the segment
+                    {
+                        if (holes[j].size > processes[p].segments[i].size)
+                        {
+                            processes[p].segments[i].start_address = holes[j].start_address;
+                            holes[j].start_address += processes[p].segments[i].size;
+                            holes[j].size = holes[j].size - processes[p].segments[i].size;
+                            break;
+                        }
+                        if (holes[j].size == processes[p].segments[i].size)
+                        {
+                            processes[p].segments[i].start_address = holes[j].start_address;
+                            holes.RemoveAt(j);
+                            h = holes.Count;
+                            break;
+                        }
+
+
+                    }
+                    if (processes[p].segments[i].start_address == -1)
+                    {
+                        int x = p + 1;
+                        Console.Write("Not Allocated");
+                        MessageBox.Show("Process " + x + " is not allocated");
+                        for (int ir = i; ir < processes[p].segments.Count; ir++)
+                            processes[p].segments.RemoveAt(ir);
+                        deallocate(p);
+                        p--;
+
+                        break;
+
+                    }
+                }
+
+
+            }
+
+
+
+        }
+
         // print all
         public void arrange_all()
         {
@@ -159,8 +213,72 @@ namespace GUITRY
             
         }
 
-    }
-        public class Hole
+
+
+        public void deallocate(int req)
+        {
+            int n = processes[req].segments.Count; //no. of segments in the procees i work on now
+
+
+            for (int i = 0; i < n; i++)
+            {
+                Hole hole = new Hole(processes[req].segments[i].start_address, processes[req].segments[i].size);
+                holes.Add(hole);
+            }
+            processes.RemoveAt(req);
+            int h = holes.Count; // no. of holes in memory
+
+            //function to arrange of holse by address
+
+            bestfirstarrange();
+
+            //////////////////////
+
+            for (int j = 1; j < holes.Count; j++)
+            {
+                long temp = holes[j - 1].start_address + holes[j - 1].size; //end of the hole
+
+                if (temp == holes[j].start_address)
+                {
+
+                    holes[j - 1].size += holes[j].size;
+                    holes.RemoveAt(j);
+                    j--;
+
+                }
+
+            }
+
+
+        }
+
+        public void deallocate_old_process(int req)
+        {
+
+            int n = prim_old.Count; //no. of segments in the procees i work on now
+
+            Hole hole = new Hole(prim_old[req].start_address, prim_old[req].size);
+            holes.Add(hole);
+            prim_old.RemoveAt(req);
+            //function to arrange of holse by address
+            bestfirstarrange();
+            int h = holes.Count; // no. of holes in memory
+
+            for (int j = 1; j < h; j++)
+            {
+                long temp = holes[j - 1].start_address + holes[j - 1].size; //end of the hole
+
+                if (temp == holes[j].start_address)
+                {
+                    holes[j - 1].size += holes[j].size;
+                    holes.RemoveAt(j);
+                    h = holes.Count;
+                }
+
+            }
+
+        }
+    public class Hole
         {
             public long size;
             public long start_address;
@@ -199,6 +317,7 @@ namespace GUITRY
             }
 
         }
+
 
     
 }
